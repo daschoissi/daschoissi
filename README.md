@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @daschoissi
 - Currently stuying @FHOOE
+- Hardware/Software Design
 - C++
 
 <!---
